@@ -5,18 +5,18 @@ Explore the Web2 team/individual projects developed by our students. Below, you 
 ## OCT 2024
 
 ### Project 1
-- Description: Ethereum network management with Docker.  
-- Repository: https://github.com/codecrypto-academy/pfm-web2.5-oct24-1
+- Description: E-commerce front and backend, using a SQL database and Redsys.
+- Repository: https://github.com/codecrypto-academy/pfm-web2-oct24-1
 
 
 ### Project 2
 - Description: Ethereum network management with Docker.  
-- Repository: https://github.com/codecrypto-academy/pfm-web2.5-oct24-2
+- Repository: https://github.com/codecrypto-academy/pfm-web2-oct24-2
 
 
 ### Project 3
 - Description: Ethereum network management with Docker.  
-- Repository: https://github.com/codecrypto-academy/pfm-web2.5-oct24-3
+- Repository: https://github.com/codecrypto-academy/pfm-web2-oct24-dg
 
 
 ---
